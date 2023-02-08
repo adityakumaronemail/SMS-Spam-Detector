@@ -6,7 +6,7 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 nltk.download('punkt')
 nltk.download('stopwords')
-
+nltk.download('stopword')
 ps = PorterStemmer()
 
 
