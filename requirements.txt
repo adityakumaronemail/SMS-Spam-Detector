@@ -1,4 +1,9 @@
-streamlit
+tkinter
+PIL
+os
+stegano
+pickle
+string
 nltk
-sklearn
-Scikit-learn
+nltk.corpus
+nltk.stem.porter
